@@ -1,4 +1,4 @@
-## Project Overview: Snow Engine
+## Project Overview: Xynok Engine
 
 Xynok Engine is my ambitious attempt to build a custom game engine. My ultimate goal is to create a toolchain that rivals Unity in terms of feature set, rendering performance, and overall processing speed. The engine is built entirely in Rust, with an Entity Component System (ECS) architecture serving as the foundation for the entire project.
 
