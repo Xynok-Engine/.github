@@ -1,5 +1,7 @@
 ## Xynok Engine
 
+[![discord invite link](https://img.shields.io/discord/1495504680711880714?logo=discord)](https://discord.gg/a2qzfrFzWT)
+
 - [documentation & changelog](https://engine.xynok.com)
 
 Xynok Engine is my ambitious attempt to build a custom game engine. My ultimate goal is to create a toolchain that rivals Unity in terms of feature set, rendering performance, and overall processing speed. The engine is built entirely in Rust, with an Entity Component System (ECS) architecture serving as the foundation for the entire project.
