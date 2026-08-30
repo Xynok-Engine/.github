@@ -16,15 +16,5 @@ Instead, I am focusing on developing Model-View-Controller (MVC) systems that in
 
 In the short term, my priority is to build small-scale titles that demonstrate the engine's technical capabilities. I am prioritizing simulation games over art-heavy or narrative-driven projects, as my primary focus remains on performance, visual fidelity, and execution speed.
 
-## The Role of AI in Development
 
-After a year of development, I have realized that architectural understanding is far more critical than raw coding speed. AI agents can generate code, suggest architectural patterns, and even produce documentation at high speeds, but they are not a substitute for human oversight.
-
-The primary bottleneck I face is not the speed of implementation, but my own ability to verify what the agent is doing and why. To move forward effectively, I have identified the following priorities:
-
-*   **Architectural Mastery:** I must focus on understanding the underlying algorithms and architectural decisions rather than just the implementation details.
-*   **Knowledge Base Development:** I am building a comprehensive database of documentation to track the engine's design.
-*   **Active Supervision:** I need to understand the code and documentation as they are being generated. My goal is to maintain full control over the agent's output by ensuring I comprehend every architectural choice before it is finalized.
-
-Moving forward, gaining this deep, technical understanding of the engine's internal logic is my most important objective.
 
