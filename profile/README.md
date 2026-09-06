@@ -1,20 +1,15 @@
-## Xynok Engine
+# Xynok Engine
 
 [![discord invite link](https://img.shields.io/discord/1495504680711880714?logo=discord)](https://discord.gg/a2qzfrFzWT)
 
 - [documentation & changelog](https://engine.xynok.com)
 
-Xynok Engine is my ambitious attempt to build a custom game engine. My ultimate goal is to create a toolchain that rivals Unity in terms of feature set, rendering performance, and overall processing speed. The engine is built entirely in Rust, with an Entity Component System (ECS) architecture serving as the foundation for the entire project.
+## About the Project
 
-## Strategic Direction and Philosophy
+Xynok Engine is my attempt to build a custom game engine from the ground up. My long-term goal is to develop a toolchain that competes with established engines like Unity in terms of features, rendering performance, and processing speed. The engine is written entirely in Rust and uses an Entity Component System (ECS) as its architectural foundation.
 
-While I have considered various advanced rendering techniques, including Gaussian Splatting, I am hesitant to commit to them. AI-driven architectures often prove to be resource-heavy and inefficient, which I do not view as a viable long-term strategy.
-
-Instead, I am focusing on developing Model-View-Controller (MVC) systems that integrate LLMs like Claude, ChatGPT, and Codex into the development workflow. This approach offers a more practical path for scaling engine development.
+I started this project primarily to learn how to build a game engine from scratch. I chose Rust because it helped me rediscover my passion for coding. Since this project is a personal journey driven by my own curiosity, I cannot guarantee that the engine will eventually reach the robustness or performance of industry-standard tools. However, I enjoy using those engines as a benchmark to measure my progress, so we will see where this leads.
 
 ## Development Roadmap
 
-In the short term, my priority is to build small-scale titles that demonstrate the engine's technical capabilities. I am prioritizing simulation games over art-heavy or narrative-driven projects, as my primary focus remains on performance, visual fidelity, and execution speed.
-
-
-
+In the short term, my priority is to build small-scale titles that demonstrate the engine's technical capabilities. I am focusing on simulation games rather than art-heavy or narrative-driven projects. This approach allows me to keep my primary focus on performance, visual fidelity, and execution speed.
