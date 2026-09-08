@@ -1,6 +1,6 @@
 # Xynok Engine
 
-[![discord invite link](https://img.shields.io/discord/1495504680711880714?logo=discord)](https://discord.gg/a2qzfrFzWT)
+[![discord invite link](https://img.shields.io/discord/1495504680711880714?logo=discord)](https://discord.gg/rp9cxaBxzQ)
 
 - [documentation & changelog](https://engine.xynok.com)
 
