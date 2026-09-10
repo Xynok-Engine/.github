@@ -4,11 +4,13 @@
 
 - [documentation & changelog](https://engine.xynok.com)
 
+## Preface
+
+I started this project primarily to learn how to build a game engine from scratch. I chose Rust because it helped me rediscover my passion for coding. Since this project is a personal journey driven by my own curiosity, I cannot guarantee that the engine will eventually reach the robustness or performance of industry-standard tools. However, I enjoy using those engines as a benchmark to measure my progress, so we will see where this leads.
+
 ## About the Project
 
 Xynok Engine is my attempt to build a custom game engine from the ground up. My long-term goal is to develop a toolchain that competes with established engines like Unity in terms of features, rendering performance, and processing speed. The engine is written entirely in Rust and uses an Entity Component System (ECS) as its architectural foundation.
-
-I started this project primarily to learn how to build a game engine from scratch. I chose Rust because it helped me rediscover my passion for coding. Since this project is a personal journey driven by my own curiosity, I cannot guarantee that the engine will eventually reach the robustness or performance of industry-standard tools. However, I enjoy using those engines as a benchmark to measure my progress, so we will see where this leads.
 
 ## Development Roadmap
 
